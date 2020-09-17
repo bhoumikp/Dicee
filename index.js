@@ -1,10 +1,10 @@
 // Player 2 dice
 var player1 = Math.floor(Math.random() * 6 + 1);
-document.querySelectorAll("img")[0].setAttribute("src", "images/dice" + player1 + ".png");
+document.querySelectorAll("img")[0].setAttribute("src", "dice" + player1 + ".png");
 
 // Player 1 dice
 var player2 = Math.floor(Math.random() * 6 + 1);
-document.querySelectorAll("img")[1].setAttribute("src", "images/dice" + player2 + ".png");
+document.querySelectorAll("img")[1].setAttribute("src", "dice" + player2 + ".png");
 
 
 
