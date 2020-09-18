@@ -1,5 +1,5 @@
 body {
-  	background-color: #393E46;
+  	background-color: #776d8a;
 }
 
 .container {
@@ -15,14 +15,14 @@ h1 {
   	font-family: 'Lobster', cursive;
   	font-size: 8rem;
   	text-shadow: 5px 0 #232931;
-  	color: #4ECCA3;	
+  	color: #f3e6e3;	
   	margin: 30px;
 }
 
 p {
 	font-family: 'Indie Flower', cursive;
 	font-size: 2rem;
-  	color: #4ECCA3;	
+  	color: #f3e6e3;	
 }
 
 img {
