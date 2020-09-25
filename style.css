@@ -55,7 +55,9 @@ footer {
 		font-size: 2rem;
 	}
 
-} (min-width: 992px){
+} 
+
+@media (min-width: 992px){
 	button {
 		display: none;
 	}
