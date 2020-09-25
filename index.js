@@ -24,11 +24,11 @@ function rolldice() {
 }
 
 
-document.querySelector("button").addEventListener("click", rolldice);
+document.addEventListener("click", rolldice);
 
 document.addEventListener("keydown", function(event) {
 	if (event.key == " ") {
 		rolldice();
 	}
-	console.log(event.key);	
+
 })
